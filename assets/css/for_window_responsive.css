@@ -1,0 +1,13 @@
+/*====================== for desktop =========================*/
+
+@media only screen and (min-width: 1000px) {
+    .mobile_header_div_1{
+        display: none !important;
+    }
+    .window_header_div_1{
+        display: block;
+    }
+}
+
+/*====================== /for desktop =========================*/
+
